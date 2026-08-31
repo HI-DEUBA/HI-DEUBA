@@ -1,4 +1,4 @@
-<h2 align="center">QA Engineer</h2>
+<h2 align="center">QA Engineer || Computer Science student</h2>
   <h6 align="center"><b>@HI_DEUBA</b></h6>
 
 
