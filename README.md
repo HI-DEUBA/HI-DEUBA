@@ -1,5 +1,5 @@
 <h2 align="center">QA Engineer</h2>
-  <h6 align="center"><b>@HI_DEUBA</b></h6>/p>
+  <h6 align="center"><b>@HI_DEUBA</b></h6>
 
 
 <p align="center">
