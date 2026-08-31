@@ -1,6 +1,6 @@
 <h2 align="center">QA Engineer</h2>
 <p align="center">
-  <b>@HI_DEUBA</b>
+  <h6><b>@HI_DEUBA</b></h6>
 </p>
 
 
@@ -18,5 +18,6 @@
 </a>
   </p>
   
-Currently Learning
-Selenium Automation | API Testing | SQL | Git/GitHub | CI/CD | Advanced QA Practices
+<h6 align="center"> Currently Learning</h6>
+<p align="center">Selenium Automation | API Testing | SQL | Git/GitHub | CI/CD | Advanced QA Practices
+ </p>
