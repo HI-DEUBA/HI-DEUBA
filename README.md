@@ -1,16 +1,17 @@
-## Hi there 👋
+ QA Engineer
 
-<!--
-**HI-DEUBA/HI-DEUBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">QA Engineer</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>@HI_DEUBA</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Contact
+
+**Address:** Koteshwor,  Kathmandu 
+**Email:** [  hdeuba1001@gmail.com ](mailto:  hdeuba1001@gmail.com )  
+**LinkedIn:** [[[linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/hikmat-deuba/)
+
+🌱 Currently Learning
+
+Selenium Automation | API Testing | SQL | Git/GitHub | CI/CD | Advanced QA Practices
