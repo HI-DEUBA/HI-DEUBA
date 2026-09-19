@@ -1,4 +1,4 @@
-<h2 align="center">QA Engineer || Computer Science Student</h2>
+<!-- <h2 align="center">QA Engineer || Computer Science Student</h2>
   <h6 align="center"><b>@HI_DEUBA</b></h6>
 
 
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/hikmat-deuba/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
 </a>
-  </p>
+  </p>-->
   
 <h6 align="center"> Currently Learning</h6>
 <p align="center">Selenium Automation | API Testing | SQL |
